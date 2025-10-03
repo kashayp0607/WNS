@@ -1,4 +1,4 @@
-# Interactive Storytelling Studio - Technical Documentation
+# Interactive Storytelling Studio
 
 ## Project Overview
 
