@@ -4,6 +4,13 @@ A sophisticated Retrieval-Augmented Generation (RAG) chatbot that supports multi
 
 ## Preview
 
+<img width="1909" height="995" alt="Screenshot 2025-10-03 104316" src="https://github.com/user-attachments/assets/93d70b61-f4ca-425f-b3f6-293f6ba8c754" />
+
+<img width="529" height="725" alt="Screenshot 2025-10-03 104409" src="https://github.com/user-attachments/assets/7206646c-15c4-40d9-b35e-d377db2f6f55" />
+<img width="520" height="532" alt="Screenshot 2025-10-03 104401" src="https://github.com/user-attachments/assets/3969fa7d-571d-418f-af99-71f34d2d22eb" />
+<img width="633" height="1005" alt="Screenshot 2025-10-03 104335" src="https://github.com/user-attachments/assets/1699c002-9b59-4d0f-92f5-f8b7dcc1b65a" />
+
+
 
 ##  Features
 
