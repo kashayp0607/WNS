@@ -4,6 +4,12 @@
 
 The Interactive Storytelling Studio is an AI-powered application for creating interactive narratives using Google's Gemini AI. It features a FastAPI backend and Streamlit frontend architecture, providing a comprehensive toolkit for dynamic story generation and management.
 <img width="1887" height="955" alt="image" src="https://github.com/user-attachments/assets/92cdf0b6-8efd-411b-bd98-5eaff73740ed" />
+<img width="1873" height="831" alt="image" src="https://github.com/user-attachments/assets/d5eb8c1e-6eb6-41b0-9338-0699708885b4" />
+<img width="1878" height="873" alt="image" src="https://github.com/user-attachments/assets/c5aee6f8-e7f9-4291-b16d-77df9631edf8" />
+<img width="1872" height="857" alt="image" src="https://github.com/user-attachments/assets/aa9af005-dfd7-42fd-b746-78e40f1aaa51" />
+<img width="1848" height="904" alt="image" src="https://github.com/user-attachments/assets/a1988482-e2df-4f85-90a8-11d2847f0e1e" />
+
+
 
 
 ## Core Features
