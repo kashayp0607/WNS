@@ -18,7 +18,7 @@ import docx
 from collections import Counter
 
 # 🔑 Add your Gemini API key directly here
-GEMINI_API_KEY = "AIzaSyAul060ET-UyXdJ4g0bDn7fElLOztSczVQ"  # ⚠️ Replace with your actual API key
+GEMINI_API_KEY = " "  # ⚠️ Replace with your actual API key
 
 if GEMINI_API_KEY == "your_gemini_api_key_here":
     print("❌ ERROR: Please replace 'your_gemini_api_key_here' with your actual Gemini API key")
@@ -761,4 +761,5 @@ if __name__ == "__main__":
     print("🚀 Starting Multi-Modal RAG Chatbot...")
     print("📝 API Documentation: http://localhost:8000/docs")
     print("✅ Document upload should work now!")
+
     uvicorn.run(app, host="0.0.0.0", port=8000)
