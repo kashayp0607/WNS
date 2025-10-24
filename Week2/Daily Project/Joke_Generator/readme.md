@@ -5,12 +5,12 @@ A simple, friendly web app that generates exactly one clean, family‑friendly j
 
 ## Features
 
-- One-click joke generation: random, category, pun, or custom topic[1][5]
-- Styles: one-liner or setup/punchline “story”[5][1]
+- One-click joke generation: random, category, pun, or custom topic
+- Styles: one-liner or setup/punchline “story”
 - Personalization: name, location, profession[1][5]
-- Inside jokes: save key→topic pairs and generate later[5][1]
-- Ratings: 😂, 😐, 🙄 with live stats[1][5]
-- Safety first: Gemini safety settings plus custom word/topic filters[4][1]
+- Inside jokes: save key→topic pairs and generate later
+- Ratings: 😂, 😐, 🙄 with live stats
+- Safety first: Gemini safety settings plus custom word/topic filters
 
 ## Project structure
 
