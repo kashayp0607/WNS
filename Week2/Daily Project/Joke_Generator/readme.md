@@ -2,6 +2,10 @@ AI Joke Generator
 
 A simple, friendly web app that generates exactly one clean, family‑friendly joke at a time using Google’s Gemini, with a FastAPI backend and a Streamlit frontend.
 <img width="1352" height="659" alt="image" src="https://github.com/user-attachments/assets/90e6ba52-15a5-4b05-9c30-df803f117043" />
+<img width="1907" height="863" alt="image" src="https://github.com/user-attachments/assets/ebf1f73d-77d2-42b0-92ce-262630a0f1b1" />
+<img width="1916" height="910" alt="image" src="https://github.com/user-attachments/assets/63c68f29-963f-4326-8078-12006b4ef0c5" />
+<img width="1422" height="957" alt="image" src="https://github.com/user-attachments/assets/d610fc86-3637-466c-8d6c-43d73eee4895" />
+
 
 ## Features
 
