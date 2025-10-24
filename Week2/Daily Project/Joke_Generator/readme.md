@@ -7,7 +7,7 @@ A simple, friendly web app that generates exactly one clean, family‑friendly j
 
 - One-click joke generation: random, category, pun, or custom topic
 - Styles: one-liner or setup/punchline “story”
-- Personalization: name, location, profession[1][5]
+- Personalization: name, location, profession[
 - Inside jokes: save key→topic pairs and generate later
 - Ratings: 😂, 😐, 🙄 with live stats
 - Safety first: Gemini safety settings plus custom word/topic filters
