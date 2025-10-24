@@ -1,4 +1,4 @@
-AI Joke Generator — FastAPI + Streamlit + Gemini
+AI Joke Generator
 
 A simple, friendly web app that generates exactly one clean, family‑friendly joke at a time using Google’s Gemini, with a FastAPI backend and a Streamlit frontend.
 <img width="1352" height="659" alt="image" src="https://github.com/user-attachments/assets/90e6ba52-15a5-4b05-9c30-df803f117043" />
