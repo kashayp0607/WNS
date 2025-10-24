@@ -57,7 +57,7 @@ setx GEMINI_API_KEY "your_actual_key"
 3) Start the backend (FastAPI)  
 ```
 cd backend
-python gemini_joker.py
+uvicorn gemini_joker:app --host 0.0.0.0 --port 8000
 ```
 - Expected: logs show the service started and listening at http://localhost:8000 with API docs at /docs.[1][5]
 
