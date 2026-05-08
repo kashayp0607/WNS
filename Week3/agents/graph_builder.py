@@ -27,13 +27,7 @@ def should_continue_to_creator(state: AgentState) -> Literal["creator", "end"]:
     return "end"
 
 def build_agent_graph():
-    """
-    Build LangGraph workflow that orchestrates LangChain-based agents
     
-    Architecture:
-    - LangChain: Handles LLM calls, prompts, and parsing (prototyping)
-    - LangGraph: Manages workflow, state, and human-in-the-loop (structure)
-    """
     
     print("🔧 Building LangGraph workflow...")
     
@@ -68,8 +62,7 @@ def build_agent_graph():
     )
     
     print("✅ LangGraph workflow compiled successfully")
-    print("   - LangChain: Powering agent logic (planner & creator chains)")
-    print("   - LangGraph: Managing workflow orchestration")
+   
     print("   - Interrupt: Human-in-the-loop before code generation")
     
     return graph
